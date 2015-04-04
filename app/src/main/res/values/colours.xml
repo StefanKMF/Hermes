@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item name="Dark_Primary_Colour" type="color">#455A64</item>
+    <item name="Primary_Colour" type="color">#455A64</item>
+    <item name="Light_Primary_Colour" type="color">#CFD8DC</item>
+    <item name="Text" type="color">#FFFFFF</item>
+    <item name="Accent_Colour" type="color">#03A9F4</item>
+    <item name="Primary_Text" type="color">#212121</item>
+    <item name="Secondary_Text" type="color">#727272</item>
+    <item name="Divider_Colour" type="color">#B6B6B6</item>
+
+</resources>
