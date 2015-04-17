@@ -5,4 +5,9 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="AppTheme" parent="android:Theme.Material">
+        <item name="android:colorPrimary">@color/Primary_Colour</item>
+
+    </style>
+
 </resources>
